@@ -1,0 +1,8 @@
+{"ID6.png":{"filename":"ID6.png","size":326679,"regions":
+[{"shape_attributes":{"name":"rect","x":465,"y":55,"width":447,"height":157},
+"region_attributes":{"field":"University_Name","text":"University of Bristol"}},
+{"shape_attributes":{"name":"rect","x":452,"y":384,"width":182,"height":37},
+"region_attributes":{"field":"Student_Name","text":"Jacob Powell"}},
+{"shape_attributes":{"name":"rect","x":807,"y":584,"width":182,"height":37},
+"region_attributes":{"field":"Expiry_Date","text":"31 August, 2025"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

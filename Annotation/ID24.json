@@ -1,0 +1,8 @@
+{"ID24.png":{"filename":"ID24.png","size":214577,"regions":
+[{"shape_attributes":{"name":"rect","x":50,"y":40,"width":655,"height":98},
+"region_attributes":{"field":"University_Name","text":"University of Brimingham"}},
+{"shape_attributes":{"name":"rect","x":202,"y":243,"width":142,"height":34},
+"region_attributes":{"field":"Student_Name","text":"Noah Nelson"}},
+{"shape_attributes":{"name":"rect","x":199,"y":336,"width":129,"height":32},
+"region_attributes":{"field":"Expiry_Date","text":"03/07/2024"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

@@ -1,0 +1,8 @@
+{"ID4.png":{"filename":"ID4.png","size":221984,"regions":
+[{"shape_attributes":{"name":"rect","x":50,"y":74,"width":500,"height":84},
+"region_attributes":{"field":"University_Name","text":"Stanford University"}},
+{"shape_attributes":{"name":"rect","x":43,"y":165,"width":347,"height":70},
+"region_attributes":{"field":"Student_Name","text":"Sofia Rodriguez"}},
+{"shape_attributes":{"name":"rect","x":200,"y":406,"width":141,"height":30},
+"region_attributes":{"field":"Expiry_Date","text":"10/13/2025"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

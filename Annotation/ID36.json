@@ -1,0 +1,8 @@
+{"ID36.png":{"filename":"ID36.png","size":322766,"regions":
+[{"shape_attributes":{"name":"rect","x":463,"y":119,"width":521,"height":69},
+"region_attributes":{"field":"University_Name","text":"University of Cambridge"}},
+{"shape_attributes":{"name":"rect","x":456,"y":385,"width":173,"height":36},
+"region_attributes":{"field":"Student_Name","text":"Amelia White"}},
+{"shape_attributes":{"name":"rect","x":848,"y":585,"width":154,"height":38},
+"region_attributes":{"field":"Expiry_Date","text":"07/20/2024"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

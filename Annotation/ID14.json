@@ -1,0 +1,8 @@
+{"ID14.png":
+{"filename":"ID14.png","size":231323,"regions":[{"shape_attributes":{"name":"rect","x":372,"y":107,"width":452,"height":76},
+"region_attributes":{"field":"University_Name","text":"University of Otago"}},
+{"shape_attributes":{"name":"rect","x":598,"y":239,"width":199,"height":33},
+"region_attributes":{"field":"Student_Name","text":"Elizabeth Morris"}},
+{"shape_attributes":{"name":"rect","x":594,"y":481,"width":119,"height":30},
+"region_attributes":{"field":"Expiry Date","text":"6/7/2023"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

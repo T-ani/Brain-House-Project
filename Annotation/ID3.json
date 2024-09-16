@@ -1,0 +1,9 @@
+{"ID3.png":
+{"filename":"ID3.png","size":250046,"regions":
+[{"shape_attributes":{"name":"rect","x":488,"y":24,"width":465,"height":204},
+"region_attributes":{"field":"University_Name","text":"Massachusetts Institute of Technology"}},
+{"shape_attributes":{"name":"rect","x":484,"y":291,"width":430,"height":96},
+"region_attributes":{"field":"Student_Name","text":"TAYLOR ALONSO"}},
+{"shape_attributes":{"name":"rect","x":606,"y":448,"width":282,"height":58},
+"region_attributes":{"field":"Expiry_Date","text":"31 December, 2030"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

@@ -1,0 +1,8 @@
+{"ID12.png":{"filename":"ID12.png","size":376816,"regions":
+[{"shape_attributes":{"name":"rect","x":452,"y":83,"width":504,"height":167},
+"region_attributes":{"field":"University_Name","text":"University of Alberta"}},
+{"shape_attributes":{"name":"rect","x":52,"y":500,"width":163,"height":25},
+"region_attributes":{"field":"Student_Name","text":"Aria Aderson"}},
+{"shape_attributes":{"name":"rect","x":713,"y":501,"width":112,"height":29},
+"region_attributes":{"field":"Expiry_Date","text":"6/25/2024"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

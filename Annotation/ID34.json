@@ -1,0 +1,8 @@
+{"ID34.png":{"filename":"ID34.png","size":207423,"regions":
+[{"shape_attributes":{"name":"rect","x":388,"y":37,"width":588,"height":132},
+"region_attributes":{"field":"University_Name","text":"Peking University"}},
+{"shape_attributes":{"name":"rect","x":207,"y":195,"width":136,"height":34},
+"region_attributes":{"field":"Student_Name","text":"Carter Cooper"}},
+{"shape_attributes":{"name":"rect","x":200,"y":286,"width":96,"height":28},
+"region_attributes":{"field":"Expiry_Date","text":"9/8/2025"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

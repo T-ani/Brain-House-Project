@@ -1,0 +1,8 @@
+{"ID9.png":{"filename":"ID9.png","size":209108,"regions":
+[{"shape_attributes":{"name":"rect","x":312,"y":42,"width":585,"height":61},
+"region_attributes":{"field":"University_Name","text":"Nanyang Technological University"}},
+{"shape_attributes":{"name":"rect","x":621,"y":241,"width":129,"height":38},
+"region_attributes":{"field":"Student_Name","text":"Riley Baker"}},
+{"shape_attributes":{"name":"rect","x":620,"y":403,"width":130,"height":40},
+"region_attributes":{"field":"Expiry_Date","text":"12/24/2024"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

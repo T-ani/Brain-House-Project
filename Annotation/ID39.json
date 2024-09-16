@@ -1,0 +1,8 @@
+{"ID39.png":{"filename":"ID39.png","size":324075,"regions":
+[{"shape_attributes":{"name":"rect","x":455,"y":66,"width":511,"height":129},
+"region_attributes":{"field":"University_Name","text":"University of Texas at Austin"}},
+{"shape_attributes":{"name":"rect","x":460,"y":385,"width":178,"height":42},
+"region_attributes":{"field":"Student_Name","text":"James Adams"}},
+{"shape_attributes":{"name":"rect","x":861,"y":591,"width":128,"height":37},
+"region_attributes":{"field":"Expiry_Date","text":"02/9/2023"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

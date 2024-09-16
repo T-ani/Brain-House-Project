@@ -1,0 +1,8 @@
+{"ID21.png":{"filename":"ID21.png","size":270015,"regions":
+[{"shape_attributes":{"name":"rect","x":177,"y":80,"width":502,"height":49},
+"region_attributes":{"field":"University_Name","text":"Australian National University"}},
+{"shape_attributes":{"name":"rect","x":489,"y":264,"width":290,"height":45},
+"region_attributes":{"field":"Student_Name","text":"Scarlett Campbell"}},
+{"shape_attributes":{"name":"rect","x":492,"y":505,"width":152,"height":40},
+"region_attributes":{"field":"Expiry_Date","text":"09/21/2025"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

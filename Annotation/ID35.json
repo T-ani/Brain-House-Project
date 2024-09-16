@@ -1,0 +1,8 @@
+{"ID35.png":{"filename":"ID35.png","size":214025,"regions":
+[{"shape_attributes":{"name":"rect","x":41,"y":40,"width":627,"height":104},
+"region_attributes":{"field":"University_Name","text":"University of Hong Kong"}},
+{"shape_attributes":{"name":"rect","x":199,"y":245,"width":161,"height":26},
+"region_attributes":{"field":"Student_Name","text":"Emily Thomas"}},
+{"shape_attributes":{"name":"rect","x":199,"y":335,"width":127,"height":30},
+"region_attributes":{"field":"Expiry_Date","text":"06/11/2023"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

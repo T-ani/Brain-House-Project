@@ -1,0 +1,8 @@
+{"ID38.png":{"filename":"ID38.png","size":230138,"regions":
+[{"shape_attributes":{"name":"rect","x":373,"y":132,"width":420,"height":67},
+"region_attributes":{"field":"University_Name","text":"Princeton University"}},
+{"shape_attributes":{"name":"rect","x":597,"y":237,"width":158,"height":40},
+"region_attributes":{"field":"Student_Name","text":"Lillian Young"}},
+{"shape_attributes":{"name":"rect","x":592,"y":482,"width":127,"height":30},
+"region_attributes":{"field":"Expiry_Date","text":"12/6/2023"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

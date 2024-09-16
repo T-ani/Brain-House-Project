@@ -1,0 +1,8 @@
+{"ID28.png":{"filename":"ID28.png","size":285333,"regions":
+[{"shape_attributes":{"name":"rect","x":51,"y":506,"width":443,"height":98},
+"region_attributes":{"field":"University_Name","text":"University of California, San Diego"}},
+{"shape_attributes":{"name":"rect","x":550,"y":187,"width":206,"height":46},
+"region_attributes":{"field":"Student_Name","text":"Logan Lewis"}},
+{"shape_attributes":{"name":"rect","x":558,"y":322,"width":173,"height":50},
+"region_attributes":{"field":"Expiry_Date","text":"01/03/2024"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

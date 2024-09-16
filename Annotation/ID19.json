@@ -1,0 +1,8 @@
+{"ID19.png":{"filename":"ID19.png","size":196678,"regions":
+[{"shape_attributes":{"name":"rect","x":447,"y":76,"width":407,"height":87},
+"region_attributes":{"field":"University_Name","text":"KYOTO UNIVERSITY"}},
+{"shape_attributes":{"name":"rect","x":443,"y":185,"width":327,"height":84},
+"region_attributes":{"field":"Student_Name","text":"Lucas Jenkins"}},
+{"shape_attributes":{"name":"rect","x":649,"y":298,"width":219,"height":67},
+"region_attributes":{"field":"Expiry_Date","text":"10/19/2023"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

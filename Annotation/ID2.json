@@ -1,0 +1,9 @@
+{"ID2.png":
+{"filename":"ID2.png","size":290126,"regions":
+[{"shape_attributes":{"name":"rect","x":67,"y":84,"width":525,"height":98},
+"region_attributes":{"field":"University_Name","text":"Monash University"}},
+{"shape_attributes":{"name":"rect","x":43,"y":198,"width":439,"height":62},
+"region_attributes":{"field":"Student_Name","text":"JAMES HERNANDEZ"}},
+{"shape_attributes":{"name":"rect","x":141,"y":472,"width":188,"height":37},
+"region_attributes":{"field":"Expiry_Date","text":"6/15/2023"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

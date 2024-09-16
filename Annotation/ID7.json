@@ -1,0 +1,8 @@
+{"ID7.png":{"filename":"ID7.png","size":201387,"regions":
+[{"shape_attributes":{"name":"rect","x":121,"y":66,"width":526,"height":55},
+"region_attributes":{"field":"University_Name","text":"University of Washington"}},
+{"shape_attributes":{"name":"rect","x":296,"y":324,"width":174,"height":41},
+"region_attributes":{"field":"Student_Name","text":"Wyatt Adams"}},
+{"shape_attributes":{"name":"rect","x":710,"y":504,"width":173,"height":26},
+"region_attributes":{"field":"Expiry_Date","text":"31 March,2024"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

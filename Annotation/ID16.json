@@ -1,0 +1,8 @@
+{"ID16.png":{"filename":"ID16.png","size":325284,"regions":
+[{"shape_attributes":{"name":"rect","x":449,"y":38,"width":527,"height":161},
+"region_attributes":{"field":"University_Name","text":"SEOUL NATIONAL UNIVERSITY"}},
+{"shape_attributes":{"name":"rect","x":460,"y":385,"width":158,"height":37},
+"region_attributes":{"field":"Student_Name","text":"Aiden Wright"}},
+{"shape_attributes":{"name":"rect","x":861,"y":580,"width":130,"height":45},
+"region_attributes":{"field":"Expiry_Date","text":"9/23/2024"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

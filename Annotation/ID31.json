@@ -1,0 +1,8 @@
+{"ID31.png":{"filename":"ID31.png","size":230088,"regions":
+[{"shape_attributes":{"name":"rect","x":381,"y":117,"width":349,"height":67},
+"region_attributes":{"field":"University_Name","text":"Kyota University"}},
+{"shape_attributes":{"name":"rect","x":596,"y":240,"width":187,"height":37},
+"region_attributes":{"field":"Student_Name","text":"Julian Thomas"}},
+{"shape_attributes":{"name":"rect","x":593,"y":482,"width":129,"height":32},
+"region_attributes":{"field":"Expiry_Date","text":"12/2/2023"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

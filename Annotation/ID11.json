@@ -1,0 +1,8 @@
+{"ID11.png":{"filename":"ID11.png","size":159805,
+"regions":[{"shape_attributes":{"name":"rect","x":194,"y":55,"width":767,"height":78},
+"region_attributes":{"field":"University_Name","text":"University of Hong Kong"}},
+{"shape_attributes":{"name":"rect","x":618,"y":332,"width":204,"height":54},
+"region_attributes":{"field":"Student_Name","text":"Carter Cox"}},
+{"shape_attributes":{"name":"rect","x":623,"y":430,"width":200,"height":51},
+"region_attributes":{"field":"Expiry_Date","text":"12/15/2025"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

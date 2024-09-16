@@ -1,0 +1,8 @@
+{"ID20.png":{"filename":"ID20.png","size":344488,"regions":
+[{"shape_attributes":{"name":"rect","x":159,"y":40,"width":179,"height":92},
+"region_attributes":{"field":"University_Name","text":"University of Geneva"}},
+{"shape_attributes":{"name":"rect","x":506,"y":248,"width":266,"height":55},
+"region_attributes":{"field":"Student_Name","text":"VICTORIA WOOD"}},
+{"shape_attributes":{"name":"rect","x":388,"y":374,"width":128,"height":37},
+"region_attributes":{"field":"Expiry_Date","text":"06/05/2023"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

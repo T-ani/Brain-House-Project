@@ -1,0 +1,8 @@
+{"ID13.png":{"filename":"ID13.png","size":207014,"regions":
+[{"shape_attributes":{"name":"rect","x":306,"y":47,"width":407,"height":58},
+"region_attributes":{"field":"University_Name","text":"King's College London"}},
+{"shape_attributes":{"name":"rect","x":620,"y":241,"width":152,"height":36},
+"region_attributes":{"field":"Student_Name","text":"Amelia Powell"}},
+{"shape_attributes":{"name":"rect","x":622,"y":401,"width":103,"height":42},
+"region_attributes":{"field":"Expiry_Date","text":"13/17/2025"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

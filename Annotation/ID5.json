@@ -1,0 +1,8 @@
+{"ID5.png":{"filename":"ID5.png","size":199148,"regions":
+[{"shape_attributes":{"name":"rect","x":187,"y":69,"width":680,"height":96},
+"region_attributes":{"field":"University_Name","text":"University of Sussex"}},
+{"shape_attributes":{"name":"rect","x":457,"y":298,"width":511,"height":86},
+"region_attributes":{"field":"Student_Name","text":"Carter Garcia"}},
+{"shape_attributes":{"name":"rect","x":725,"y":422,"width":232,"height":74},
+"region_attributes":{"field":"Expiry_Date","text":"11/9/2023"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

@@ -1,0 +1,8 @@
+{"ID23.png":{"filename":"ID23.png","size":207500,"regions":
+[{"shape_attributes":{"name":"rect","x":295,"y":29,"width":666,"height":159},
+"region_attributes":{"field":"University_Name","text":"University of Zurich"}},
+{"shape_attributes":{"name":"rect","x":198,"y":200,"width":138,"height":26},
+"region_attributes":{"field":"Student_Name","text":"Owen Cox"}},
+{"shape_attributes":{"name":"rect","x":203,"y":287,"width":129,"height":25},
+"region_attributes":{"field":"Expiry_Date","text":"05/27/2025"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

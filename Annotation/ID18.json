@@ -1,0 +1,8 @@
+{"ID18.png":{"filename":"ID17.png","size":197165,"regions":
+[{"shape_attributes":{"name":"rect","x":171,"y":66,"width":700,"height":95},
+"region_attributes":{"field":"University_Name","text":"University of Vienna"}},
+{"shape_attributes":{"name":"rect","x":452,"y":299,"width":527,"height":75},
+"region_attributes":{"field":"Student_Name","text":"Stella Hughes"}},
+{"shape_attributes":{"name":"rect","x":726,"y":427,"width":245,"height":62},
+"region_attributes":{"field":"Expiry_Date","text":"12/17/2024"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

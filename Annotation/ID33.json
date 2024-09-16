@@ -1,0 +1,8 @@
+{"ID33.png":{"filename":"ID33.png","size":212420,"regions":
+[{"shape_attributes":{"name":"rect","x":34,"y":45,"width":591,"height":99},
+"region_attributes":{"field":"University_Name","text":"University of Bristol"}},
+{"shape_attributes":{"name":"rect","x":204,"y":243,"width":178,"height":30},
+"region_attributes":{"field":"Student_Name","text":"Connor Garcia"}},
+{"shape_attributes":{"name":"rect","x":204,"y":332,"width":124,"height":40},
+"region_attributes":{"field":"Expiry_Date","text":"12/27/2025"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

@@ -1,0 +1,8 @@
+{"ID8.png":{"filename":"ID8.png","size":232308,"regions":
+[{"shape_attributes":{"name":"rect","x":373,"y":120,"width":535,"height":70},
+"region_attributes":{"field":"University_Name","text":"University of Pennsylvania"}},
+{"shape_attributes":{"name":"rect","x":594,"y":243,"width":223,"height":34},
+"region_attributes":{"field":"Student_Name","text":"Madison Robinson"}},
+{"shape_attributes":{"name":"rect","x":597,"y":484,"width":144,"height":32},
+"region_attributes":{"field":"Expiry_Date","text":"11/8/2024"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

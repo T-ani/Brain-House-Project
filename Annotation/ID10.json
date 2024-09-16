@@ -1,0 +1,8 @@
+{"ID10.png":{"filename":"ID10.png","size":376182,"regions":
+[{"shape_attributes":{"name":"rect","x":448,"y":63,"width":481,"height":196},
+"region_attributes":{"field":"University_Name","text":"University of Vienna"}},
+{"shape_attributes":{"name":"rect","x":53,"y":501,"width":165,"height":33},
+"region_attributes":{"field":"Student_Name","text":"Penelope Kelly"}},
+{"shape_attributes":{"name":"rect","x":704,"y":498,"width":144,"height":33},
+"region_attributes":{"field":"Expiry_Date","text":"31 July,2025"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

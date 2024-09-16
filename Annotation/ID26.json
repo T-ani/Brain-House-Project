@@ -1,0 +1,8 @@
+{"ID26.png":{"filename":"ID26.png","size":231250,"regions":
+[{"shape_attributes":{"name":"rect","x":385,"y":108,"width":497,"height":76},
+"region_attributes":{"field":"University_Name","text":"University of Nottingham"}},
+{"shape_attributes":{"name":"rect","x":597,"y":242,"width":127,"height":30},
+"region_attributes":{"field":"Student_Name","text":"Avery Cox"}},
+{"shape_attributes":{"name":"rect","x":597,"y":480,"width":140,"height":37},
+"region_attributes":{"field":"Expiry_Date","text":"12/10/2024"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

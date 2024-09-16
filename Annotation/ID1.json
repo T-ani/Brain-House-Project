@@ -1,0 +1,9 @@
+{"ID1.png":
+{"filename":"ID1.png","size":160195,"regions":
+[{"shape_attributes":{"name":"rect","x":233,"y":45,"width":639,"height":84},
+"region_attributes":{"field":"University_Name","text":"Harvard University"}},
+{"shape_attributes":{"name":"rect","x":626,"y":331,"width":240,"height":49},
+"region_attributes":{"field":"Student_Name","text":"RILEY BARNES"}},
+{"shape_attributes":{"name":"rect","x":626,"y":424,"width":322,"height":50},
+"region_attributes":{"field":"Expiry_Date","text":"10 December,2000"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

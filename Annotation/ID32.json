@@ -1,0 +1,8 @@
+{"ID32.png":{"filename":"ID32.png","size":322129,"regions":
+[{"shape_attributes":{"name":"rect","x":449,"y":80,"width":463,"height":105},
+"region_attributes":{"field":"University_Name","text":"Peking University"}},
+{"shape_attributes":{"name":"rect","x":460,"y":390,"width":163,"height":32},
+"region_attributes":{"field":"Student_Name","text":"Stella Sullivan"}},
+{"shape_attributes":{"name":"rect","x":852,"y":583,"width":137,"height":47},
+"region_attributes":{"field":"Expiry_Date","text":"4/12/2025"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

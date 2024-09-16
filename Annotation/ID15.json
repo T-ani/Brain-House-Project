@@ -1,0 +1,8 @@
+{"ID15.png":{"filename":"ID15.png","size":134612,"regions":
+[{"shape_attributes":{"name":"rect","x":115,"y":57,"width":691,"height":62},
+"region_attributes":{"field":"University_Name","text":"National University of Singapore"}},
+{"shape_attributes":{"name":"rect","x":299,"y":327,"width":179,"height":37},
+"region_attributes":{"field":"Student_Name","text":"Grace Morgan"}},
+{"shape_attributes":{"name":"rect","x":736,"y":505,"width":115,"height":30},
+"region_attributes":{"field":"Expiry_Date","text":"4/18/2025"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

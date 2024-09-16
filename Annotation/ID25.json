@@ -1,0 +1,8 @@
+{"ID25.png":{"filename":"ID25.png","size":322794,"regions":
+[{"shape_attributes":{"name":"rect","x":455,"y":84,"width":539,"height":92},
+"region_attributes":{"field":"University_Name","text":"University of Sussex"}},
+{"shape_attributes":{"name":"rect","x":460,"y":377,"width":163,"height":53},
+"region_attributes":{"field":"Student_Name","text":"Owen Wilson"}},
+{"shape_attributes":{"name":"rect","x":861,"y":583,"width":140,"height":45},
+"region_attributes":{"field":"Expiry_Date","text":"11/17/2024"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}

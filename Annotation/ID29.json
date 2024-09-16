@@ -1,0 +1,8 @@
+{"ID29.png":{"filename":"ID29.png","size":161235,"regions":
+[{"shape_attributes":{"name":"rect","x":178,"y":61,"width":743,"height":63},
+"region_attributes":{"field":"University_Name","text":"University of Waterloo"}},
+{"shape_attributes":{"name":"rect","x":618,"y":330,"width":258,"height":58},
+"region_attributes":{"field":"STudent_Name","text":"Mason Murphy"}},
+{"shape_attributes":{"name":"rect","x":621,"y":432,"width":219,"height":45},
+"region_attributes":{"field":"Expiry_Date","text":"05/04/2024"}}],
+"file_attributes":{"caption":"","public_domain":"no","image_url":""}}}
