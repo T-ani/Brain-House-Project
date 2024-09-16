@@ -43,6 +43,22 @@ You can install the required packages by running:
 ```bash
 pip install -r requirements.txt
 ```
+# **Image Text Recognition and Classification using LSTM**
+
+This project uses object detection and text recognition techniques to extract relevant text fields (such as student names, university names, and expiry dates) from ID card images. The extracted text is classified into predefined categories using an LSTM-based model.
+
+## **Model Architecture**
+
+### **Text Classification Model**
+The text classification model is an LSTM-based network that processes tokenized text sequences and outputs field predictions. The architecture includes:
+
+- **Embedding Layer**: Maps text tokens into a vector space.
+- **LSTM Layer**: Processes sequence data and learns temporal dependencies.
+- **Dense Layers**: Outputs predictions for text categories (e.g., student_name, university_name, etc.).
+
+### **Text Extraction**
+We use EasyOCR to extract text from images. After extraction, the texts are classified into predefined categories using the trained LSTM model.
+
 ## **Dataset**
 
 The dataset used in this project consists of images with annotated bounding boxes, which contain relevant fields such as student names, university names, and expiry dates. Each image is accompanied by a JSON annotation file that contains the coordinates of the bounding box and the text inside the box.
