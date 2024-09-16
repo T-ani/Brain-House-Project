@@ -94,7 +94,7 @@ Each annotation file (in JSON format) includes the following information:
 
 ### **Downloading the Dataset**
 
-You can download the dataset from [this link](https://github.com/T-ani/Brain-House-Project/tree/main/DATA) (replace with the actual URL).
+You can download the dataset from [Dataset](https://github.com/T-ani/Brain-House-Project/tree/main/DATA) 
 
 Alternatively, you can create your own dataset by following the structure mentioned above. The dataset should contain images and corresponding annotation files in JSON format, organized into `DATA/` and `Annotation/` folders, respectively.
 
