@@ -103,7 +103,8 @@ Alternatively, you can create your own dataset by following the structure mentio
 My main target was to generalize the model.
 - I wanted to analyze the test image without any annotation
 - My main idea was to finding/extracting the text from the image
-- I wanted to finding the patterns of the text and position of the text 
+- I wanted to finding the patterns of the text and position of the text
+  
 For these things I wanted to train my model with such kind of data that needed to be contained text annotation and the position of those text.
 So, after analyzing I decided to create JSON file for annotation.
 
