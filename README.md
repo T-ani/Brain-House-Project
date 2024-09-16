@@ -106,7 +106,9 @@ My main target was to generalize the model.
 - I wanted to finding the patterns of the text and position of the text
   
 For these things I wanted to train my model with such kind of data that needed to be contained text annotation and the position of those text.
-So, after analyzing I decided to create JSON file for annotation.
+So, after analyzing I decided to create JSON file for annotation. 
+
+After that I trained my data with these JSON files and images. I tried to implement as much as could do.
 
 ### Dataset Collection/Creation
 I created the dataset by my own. With the different template of [Canva Visual Suite](https://www.canva.com/id-cards/templates/student/).
