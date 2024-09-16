@@ -109,9 +109,9 @@ So, after analyzing I decided to create JSON file for annotation.
 
 ### Dataset Collection/Creation
 I created the dataset by my own. With the different template of Canva Visual Suite.
--First I created an excel file of 40 entries with 3 coulumns University_Name,Student_Name,Expiry_Date
--From this excel file I took the University_Name, Student_Name, Expiry_Date and manually desinged each and every Student ID Card
--After creating images, I used VIA Image Annotator for creating JSON file for each and every image file
+- First I created an excel file of 40 entries with 3 coulumns University_Name,Student_Name,Expiry_Date
+- From this excel file I took the University_Name, Student_Name, Expiry_Date and manually desinged each and every Student ID Card
+- After creating images, I used VIA Image Annotator for creating JSON file for each and every image file
 
  
 
