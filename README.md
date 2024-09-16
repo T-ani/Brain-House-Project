@@ -108,10 +108,10 @@ For these things I wanted to train my model with such kind of data that needed t
 So, after analyzing I decided to create JSON file for annotation.
 
 ### Dataset Collection/Creation
-I created the dataset by my own. With the different template of Canva Visual Suite.
+I created the dataset by my own. With the different template of [Canva Visual Suite](https://www.canva.com/id-cards/templates/student/).
 - First I created an excel file of 40 entries with 3 coulumns University_Name,Student_Name,Expiry_Date
 - From this excel file I took the University_Name, Student_Name, Expiry_Date and manually desinged each and every Student ID Card
-- After creating images, I used VIA Image Annotator for creating JSON file for each and every image file
+- After creating images, I used [VIA Image Annotator](https://www.robots.ox.ac.uk/~vgg/software/via/via_demo.html) for creating JSON file for each and every image file
 
  
 
