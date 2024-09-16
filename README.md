@@ -11,12 +11,10 @@ This project implements a pipeline for object detection and text recognition usi
 ## **Table of Contents**
 1. [Project Overview](#project-overview)
 2. [Prerequisites](#prerequisites)
-3. [Dataset](#dataset)
-4. [Model Architecture](#model-architecture)
-5. [How to Run](#how-to-run)
-6. [Results](#results)
-7. [Contributing](#contributing)
-8. [License](#license)
+3. [Model Architecture](#model-architecture)
+4. [Dataset](#dataset)
+5. [My Work](#my-work)
+
 
 ---
 
@@ -96,7 +94,24 @@ Each annotation file (in JSON format) includes the following information:
 
 ### **Downloading the Dataset**
 
-You can download the dataset from [this link](https://example.com/download-dataset) (replace with the actual URL).
+You can download the dataset from [this link](https://github.com/T-ani/Brain-House-Project/tree/main/DATA)) (replace with the actual URL).
 
 Alternatively, you can create your own dataset by following the structure mentioned above. The dataset should contain images and corresponding annotation files in JSON format, organized into `DATA/` and `Annotation/` folders, respectively.
+
+## **My Work**
+#### My Ideas for implementing this work
+My main target was to generalize the model.
+--- I wanted to analyze the test image without any annotation
+--- My main idea was to finding/extracting the text from the image
+--- I wanted to finding the patterns of the text and position of the text 
+For these things I wanted to train my model with such kind of data that needed to be contained text annotation and the position of those text.
+So, after analyzing I decided to create JSON file for annotation.
+
+#### Dataset Collection/Creation
+I created the dataset by my own. With the different template of Canva Visual Suite.
+---First I created an excel file of 40 entries with 3 coulumns University_Name,Student_Name,Expiry_Date
+---From this excel file I took the University_Name, Student_Name, Expiry_Date and manually desinged each and every Student ID Card
+---After creating images, I used VIA Image Annotator for creating JSON file for each and every image file
+
+ 
 
